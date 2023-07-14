@@ -1,7 +1,7 @@
 
  🔭 I’m Interested in Creating Android applications .
  
- 🌱 I’m currently learning flutter
+ 🌱 I’m currently learning flutter and MERN Stack.
  
  💬 Ask me about flutter ,python, react and any other tech related stuff.
  
